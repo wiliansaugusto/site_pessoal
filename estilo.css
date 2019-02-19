@@ -1,0 +1,20 @@
+.logo_inicio {
+    background-image:url(assets/imgs/logo_inicio.jpg);
+    color: red;
+    text-shadow: 1px 1px 2px black, 0 0 25px greenyellow, 0 2px 10px darkblue;
+    text-align: center;
+    box-shadow: 10px 20px #888888;
+
+
+}
+.navegador{
+    color: blue;   
+    text-shadow:  0 0px 2px darkblue;
+
+
+}
+#imagem_perfil{
+    width: 100%;
+    height: auto;
+    border-radius: 40%;
+}
